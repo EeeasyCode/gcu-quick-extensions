@@ -5,7 +5,7 @@ import '@/pages/newtab/index.css';
 
 
 function init() {
-  const appContainer = document.querySelector('#app-container');
+  const appContainer = document.querySelector('.app-container');
   if (!appContainer) {
     throw new Error('Can not find #app-container');
   }
