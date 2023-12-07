@@ -1,8 +1,15 @@
+import { Center, Text } from "@chakra-ui/react";
+
 function Newtab () {
   return (
-    <div>
-        <h1>hello</h1>
-    </div>
+    <Center>
+      <Text
+        textTransform="uppercase"
+        fontSize="50px"
+        fontWeight="bold"
+      >
+          가천대학교</Text>
+    </Center>
   )
 }
 
