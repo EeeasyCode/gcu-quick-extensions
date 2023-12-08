@@ -5,7 +5,7 @@ function Newtab () {
     <Center>
       <Text
         textTransform="uppercase"
-        fontSize="50px"
+        fontSize="30px"
         fontWeight="bold"
         color="white"
       >
